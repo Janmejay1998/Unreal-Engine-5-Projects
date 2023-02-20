@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Janmejay Mohanty/Documents/Unreal Projects/WarehouseWrekage/Content/Main.umap",
+				"C:/Users/Janmejay Mohanty/Documents/Unreal Projects/WarehouseWrekage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/Janmejay Mohanty/Documents/Unreal Projects/WarehouseWrekage/Content/BP_Barrel.uasset",
+				"C:/Users/Janmejay Mohanty/Documents/Unreal Projects/WarehouseWrekage/Content/BP_Projectile.uasset"
+			]
+		}
+	]
+}
